@@ -57,6 +57,7 @@
         },
         "newlines-between": "always"
       }
-    ]
+    ],
+    "no-useless-constructor": "off"
   }
 }
